@@ -2,7 +2,6 @@ clear
 close all
 clc
 
-addpath('/Users/bountov1/Desktop/matlab scripts/HighTdesigns');
 
 %% Array geometry
 
